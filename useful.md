@@ -132,6 +132,9 @@ https://mega.nz/file/34wiCCQI#uzVaA-Jl__mMA12lbtAs6VZXiJRLAEpN0sqoi7_ezT8
 sony vegas pro 18
 https://send.cm/sob1g6efcn9w
 
+fl studio 12 w/keygen
+https://drive.google.com/file/d/1JwRpdRdaYN7iW7DhHaOZ8oS0y9SYTxV0/view?usp=sharing
+
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
 
