@@ -166,6 +166,8 @@ K | https://windows95keygen.tk/ (win 95 / nt keygen online)
 
 S | https://archive.org very useful 
 
+S | https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing (a copy of windows xp x64 professional uploaded by me on gdrive)
+
 ***SEARCH ENGINES***
 
 https://www.xdcc.eu/ (irc stuff)
