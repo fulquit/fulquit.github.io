@@ -135,6 +135,9 @@ https://send.cm/sob1g6efcn9w
 fl studio 12 w/keygen
 https://drive.google.com/file/d/1JwRpdRdaYN7iW7DhHaOZ8oS0y9SYTxV0/view?usp=sharing
 
+windows xp x64 professional with serial key included
+https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing
+
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
 
