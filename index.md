@@ -5,7 +5,7 @@ Just kidding, welcome to my website! Here you can find:
 
 I'm fulquit. An italian dude who makes stuff on the internet. 
 
-Some microsoft stuff: [link](https://raw.githubusercontent.com/fulquit/fulquit.github.io/main/microsoft)
+Some microsoft stuff: [link](https://github.com/fulquit/fulquit.github.io/blob/main/microsoft.txt)
 
 And my list of stuff that i find useful: [link](https://github.com/fulquit/fulquit.github.io/blob/main/useful.md)
 
