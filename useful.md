@@ -73,10 +73,13 @@ https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
 
 ***BYPASSING GENERAL BULLSHIT***
 
-https://adsbypasser.github.io/ (bypass ad.fly or websites like those)
+https://violentmonkey.github.io/ to make the scripts run
 
-https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypasses yt age restriction)
+(script) https://adsbypasser.github.io/ (bypass ad.fly or websites like those)
 
+(script) https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypasses yt age restriction)
+
+https://universal-bypass.org/install (same premise as adsbypasser)
 
 ***COMPRESSING/CONVERTING***
 
