@@ -81,6 +81,8 @@ https://violentmonkey.github.io/ to make the scripts run
 
 https://universal-bypass.org/install (same premise as adsbypasser)
 
+https://unblocked-pw.github.io/ proxy thingy
+
 ***COMPRESSING/CONVERTING***
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
