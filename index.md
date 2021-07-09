@@ -1,6 +1,8 @@
 ## Welcome to my website!
 
-I'm fulquit. An italian dude who makes stuff on the internet. I'm kind of a piracy guy. I've contributed to various gdrive/mega discord servers.
+I'm fulquit. An italian dude who makes stuff on the internet. 
+I'm kind of a piracy guy. 
+I've contributed to various gdrive/mega discord servers.
 
 My microsoft list of stuff: [link](https://github.com/fulquit/fulquit.github.io/blob/main/microsoft.txt)
 
