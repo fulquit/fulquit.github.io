@@ -100,6 +100,9 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ***SOFTWARE***
 
+adobe master collection 2021 russian and english
+https://drive.google.com/drive/folders/1zOh64SNXfl0Og12W9LwFmvyXTQsY-jUW?usp=sharing (from the megadrive on discord!)
+
 gta: sa
 https://drive.google.com/file/d/0B-459mlkNsNQSS1weUxBcnR4eUU/view
 
