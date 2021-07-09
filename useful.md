@@ -52,6 +52,10 @@ days, while registered 30 days and premium no limit.)
 
 https://catbox.moe/ and https://litterbox.catbox.moe/ (Catbox allows up to 200mb and the download doesnt expire. Litterbox has up to 1gb and can expire up to 3 days.)
 
+https://pixeldrain.com/ (5gb per file on free version + after 30 days without new views the file will be deleted. Pro version (2€ per month) has 15gb per file and 90 days without new views will be deleted.
+
+https://krakenfiles.com/ (1gb per file free version and 5gb per file paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
+
 ***EXTENSIONS/SCRIPTS***
 
 E | https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag (Violentmonkey: script runner)
