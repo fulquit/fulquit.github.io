@@ -131,6 +131,9 @@ freezer
 https://files.freezer.life/0:/Android/
 choose your phone architecture then download, install the apk, log in your deezer account and you can also download tracks
 
+windows xp x64 professional with serial key included
+https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing
+
 sony vegas pro 17 
 https://mega.nz/file/34wiCCQI#uzVaA-Jl__mMA12lbtAs6VZXiJRLAEpN0sqoi7_ezT8
 
@@ -139,9 +142,6 @@ https://send.cm/sob1g6efcn9w
 
 fl studio 12 w/keygen
 https://drive.google.com/file/d/1JwRpdRdaYN7iW7DhHaOZ8oS0y9SYTxV0/view?usp=sharing
-
-windows xp x64 professional with serial key included
-https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing
 
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
