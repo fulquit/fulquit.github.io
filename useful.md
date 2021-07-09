@@ -178,6 +178,8 @@ S | https://archive.org very useful
 
 S | https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing (a copy of windows xp x64 professional)
 
+S | https://gw11.tech/ (links and mirrors to the leaked .iso of windows 11)
+
 ***SEARCH ENGINES***
 
 https://www.xdcc.eu/ (irc stuff)
