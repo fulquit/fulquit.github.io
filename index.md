@@ -1,12 +1,11 @@
-## Welcome to Hell!
-
-Just kidding, welcome to my website! Here you can find:
->my stuff!
+## Welcome to my website!
 
 I'm fulquit. An italian dude who makes stuff on the internet. 
 
-Some microsoft stuff: [link](https://github.com/fulquit/fulquit.github.io/blob/main/microsoft.txt)
+My microsoft list of stuff: [link](https://github.com/fulquit/fulquit.github.io/blob/main/microsoft.txt)
 
-And my list of stuff that i find useful: [link](https://github.com/fulquit/fulquit.github.io/blob/main/useful.md)
+Fulquit's list of useful stuff: [link](https://github.com/fulquit/fulquit.github.io/blob/main/useful.md)
 
 Note: i ported this list from my GitLab profile, so yeah: [link](https://gitlab.com/fulquit)
+
+If you want to add something to the list of useful stuff or the microsoft.txt, add an issue on the github repo: [link](https://github.com/fulquit/fulquit.github.io)
