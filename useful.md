@@ -1,3 +1,6 @@
+
+### ***THE LIST OF USEFUL STUFF, [MADE BY FULQUIT](https://fulquit.github.io/)***
+
 ***EMULATION***
 
 https://emulation.gametechwiki.com/index.php/Emulator_Files#Nintendo_Switch (Emulator files)
