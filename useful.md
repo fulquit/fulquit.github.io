@@ -21,7 +21,7 @@ https://pastelink.net/
 
 ***SOFTWARE/GAMES***
 
-S | https://mysoftwarefree.com/ DEAD (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
+S | https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
 
 G | https://steamunlocked.net/
 
