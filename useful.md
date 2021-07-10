@@ -11,6 +11,8 @@ https://archive.org/download/noIntroNintendoDsDecrypted2019Jun30 (DS roms)
 
 https://vimm.net/?p=vault (A variety of roms for different consoles)
 
+https://archive.org/details/ds-firmware_dsi-nand-and-firmware (DSi nand and firmware files that work with melonds)
+
 Note: these roms will not work on real hardware. They only work on emulators
 
 ***PASTE TEXT***
