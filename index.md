@@ -2,7 +2,7 @@
 
 I'm fulquit. An italian dude who makes stuff on the internet, i'm a pirate and have contributed to discord piracy servers.
 
-My microsoft list of stuff: [link](microsoft.txt)
+My microsoft list of stuff: [link](microsoft.md)
 
 Fulquit's list of useful stuff: [link](useful.md)
 
