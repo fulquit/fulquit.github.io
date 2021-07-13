@@ -30,7 +30,9 @@ S | https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp
   
 S | https://gw11.tech/ (links and mirrors to the leaked .iso of windows 11)  
   
-S | https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool (windows and office iso download tool, pretty good)  
+S | https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool (windows and office iso download tool, pretty good) 
+
+S | https://rufus.ie/en_US/ (rufus now has the ability to download the iso's of win10, 8.1 and 7, directly from microsoft)
   
   
 DIRECTLY TAKEN FROM FULQUIT'S LIST OF USEFUL STUFF https://github.com/fulquit/fulquit.github.io/  
