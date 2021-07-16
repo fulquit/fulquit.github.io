@@ -60,6 +60,8 @@ https://pixeldrain.com/ (5gb per file on free version + after 30 days without ne
 
 https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
 
+https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
