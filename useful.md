@@ -21,6 +21,18 @@ https://pastebin.com/
 
 https://pastelink.net/
 
+https://paste.ee/
+
+https://hastebin.com/
+
+https://paste2.org/
+
+http://pastie.org/
+
+https://upaste.me/
+
+https://paste.teknik.io/
+
 ***SOFTWARE/GAMES***
 
 S | https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
