@@ -74,6 +74,8 @@ https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be delete
 
 https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BLOCKED IN ITALY)
 
+https://www.sendspace.com/ (300mb per file)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
