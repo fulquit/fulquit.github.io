@@ -63,6 +63,8 @@ https://tmpfiles.org/ (Note: has a limited amount of time to download, max 120 m
 
 https://mega.io/ (Note: only 40gb per hour and 50gb storage)
 
+https://www.mediafire.com/ (10gb free and 4gb per file)
+
 https://send.cm/ (Note: 5gb storage and 10 files maximum. Unregistered users' files will be deleted in 15 
 days, while registered 30 days and premium no limit.)
 
