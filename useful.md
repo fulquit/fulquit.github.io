@@ -102,6 +102,8 @@ https://knaben.info/ another proxy thingy
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
+https://github.com/mrpond/BlockTheSpot actually works now yay
+
 ***COMPRESSING/CONVERTING***
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
