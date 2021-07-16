@@ -8,4 +8,4 @@ Fulquit's list of useful stuff: [link](useful.md)
 
 Note: i ported this list from my GitLab profile, so yeah: [link](https://gitlab.com/fulquit)
 
-If you want to add something to the list of useful stuff or the microsoft.txt, add an issue on the github repo: [link](https://github.com/fulquit/fulquit.github.io)
+If you wanna add something to the list of useful stuff, or the microsoft.md, add an issue or a pull.: [link](https://github.com/fulquit/fulquit.github.io)
