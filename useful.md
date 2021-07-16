@@ -39,7 +39,7 @@ https://drive.google.com + https://pastelink.net/2zw21
 
 https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
 
-https://filebin.net/ DEAD for now (Note: link will automatically expire after 1 week.)
+https://filebin.net/ (Note: link will automatically expire after 1 week.)
 
 https://gofile.io/welcome (Note: after 10 days the files will be deleted.)
 
