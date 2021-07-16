@@ -37,6 +37,8 @@ S/G | https://1337x.to / https://1337xx.to
 
 https://drive.google.com + https://pastelink.net/2zw21
 
+https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
+
 https://filebin.net/ DEAD for now (Note: link will automatically expire after 1 week.)
 
 https://gofile.io/welcome (Note: after 10 days the files will be deleted.)
@@ -58,6 +60,8 @@ https://pixeldrain.com/ (5gb per file on free version + after 30 days without ne
 
 https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
 
+https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
+
 ***EXTENSIONS/SCRIPTS***
 
 E | https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag (Violentmonkey: script runner)
@@ -78,6 +82,8 @@ https://sctomp3.net/ (soundcloud dl (not a program cuz fuck command lines))
 
 https://downsub.com/ (yt subtitles dl)
 
+https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
+
 https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
 
 ***BYPASSING GENERAL BULLSHIT***
@@ -93,6 +99,8 @@ https://universal-bypass.org/install (same premise as adsbypasser)
 https://unblocked-pw.github.io/ proxy thingy
 
 https://knaben.info/ another proxy thingy
+
+https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***COMPRESSING/CONVERTING***
 
