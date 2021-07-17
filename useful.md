@@ -128,6 +128,8 @@ https://github.com/mrpond/BlockTheSpot actually works now yay
 
 https://pastelink.net/32spn (gdrive bypass quota)
 
+https://github.com/Kibakus/SpotifyBlockNewUI (removes the blank bar / upgrade button from spotify)
+
 ***COMPRESSING/CONVERTING***
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
