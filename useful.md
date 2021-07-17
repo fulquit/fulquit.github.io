@@ -78,6 +78,8 @@ https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BL
 
 https://www.sendspace.com/ (300mb per file)
 
+https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited download speed)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
