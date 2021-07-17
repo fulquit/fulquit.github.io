@@ -88,6 +88,8 @@ http://uploadboy.com/ (100gb free space)
 
 https://userscloud.com/ (up to 5gb, 50 files)
 
+https://anonfiles.com/ (20gb per file, unlimited bandwidth) (BLOCKED IN ITALY)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
