@@ -82,6 +82,12 @@ https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited downlo
 
 https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
 
+https://usersdrive.com/
+
+http://uploadboy.com/ (100gb free space)
+
+https://userscloud.com/ (up to 5gb, 50 files)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
