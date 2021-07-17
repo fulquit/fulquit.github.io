@@ -47,7 +47,7 @@ S/G | https://1337x.to / https://1337xx.to
 
 ***UPLOAD/DOWNLOAD***
 
-https://drive.google.com + https://pastelink.net/2zw21
+https://drive.google.com + https://pastelink.net/2zw21 + https://pastelink.net/32spn
 
 https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
 
