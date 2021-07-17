@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-I'm fulquit. An italian dude who makes stuff on the internet, i'm a pirate and have contributed to discord piracy servers.
+I'm fulquit. An italian dude who makes stuff on the internet. Here you can find a list of manually compiled lists of stuff that i find useful.
 
 My microsoft list of stuff: [link](microsoft.md)
 
