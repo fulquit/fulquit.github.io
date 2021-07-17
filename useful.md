@@ -80,6 +80,8 @@ https://www.sendspace.com/ (300mb per file)
 
 https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited download speed)
 
+https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
+
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
 ***EXTENSIONS/SCRIPTS***
