@@ -116,6 +116,8 @@ https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to 
 
 https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
 
+https://github.com/Otiel/BandcampDownloader downloads albums/music from bandcamp
+
 ***BYPASSING GENERAL BULLSHIT***
 
 https://violentmonkey.github.io/ to make the scripts run
