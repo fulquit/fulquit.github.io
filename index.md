@@ -9,3 +9,5 @@ Fulquit's list of useful stuff: [link](useful.md)
 Note: i ported this list from my GitLab profile, so yeah: [link](https://gitlab.com/fulquit)
 
 If you wanna add something to the list of useful stuff, or the microsoft.md, add an issue or a pull.: [link](https://github.com/fulquit/fulquit.github.io)
+
+a big thanks to https://github.com/wget-MarSOl for helpin me with this project!
