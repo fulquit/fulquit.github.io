@@ -33,6 +33,8 @@ https://upaste.me/
 
 https://paste.teknik.io/
 
+https://pixeldrain.com/t
+
 ***SOFTWARE/GAMES***
 
 S | https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
