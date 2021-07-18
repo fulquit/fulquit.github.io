@@ -53,44 +53,44 @@ https://drive.google.com + https://pastelink.net/2zw21 + https://pastelink.net/3
 
 https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
 
+https://mega.io/ (Note: only 40gb per hour and 20gb storage)
+
+https://anonfiles.com/ (20gb per file, unlimited bandwidth) (BLOCKED IN ITALY)
+
+https://www.mediafire.com/ (10gb free and 4gb per file)
+
+https://1fichier.com/ (Note: unregistered users download will expire in 15 days, registered users in 30, and premium (paid) doesnt do that.) (Also, if you have Fastweb, this domain might be blocked. I still don't know why.)
+
+https://send.cm/ (Note: 5gb storage and 10 files maximum. Unregistered users' files will be deleted in 15 
+days, while registered 30 days and premium no limit.)
+
+https://pixeldrain.com/ (5gb per file on free version + after 30 days without new views the file will be deleted. Pro version (2€ per month) has 15gb per file and 90 days without new views will be deleted.)
+
+https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited download speed)
+
+http://uploadboy.com/ (100gb free space)
+
+https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
+
+https://userscloud.com/ (up to 5gb, 50 files)
+
+https://catbox.moe/ and https://litterbox.catbox.moe/ (Catbox allows up to 200mb and the download doesnt expire. Litterbox has up to 1gb and can expire up to 3 days.)
+
+https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BLOCKED IN ITALY)
+
+https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
+
+https://www.sendspace.com/ (300mb per file)
+
 https://filebin.net/ (Note: link will automatically expire after 1 week.)
 
 https://gofile.io/welcome (Note: after 10 days the files will be deleted.)
 
 https://www.file.io/ (Note: download will self-destruct after download + 100mb limit)
 
-https://1fichier.com/ (Note: unregistered users download will expire in 15 days, registered users in 30, and premium (paid) doesnt do that.) (Also, if you have Fastweb, this domain might be blocked. I still don't know why.)
-
 https://tmpfiles.org/ (Note: has a limited amount of time to download, max 120 minutes and 100mb per file)
 
-https://mega.io/ (Note: only 40gb per hour and 50gb storage)
-
-https://www.mediafire.com/ (10gb free and 4gb per file)
-
-https://send.cm/ (Note: 5gb storage and 10 files maximum. Unregistered users' files will be deleted in 15 
-days, while registered 30 days and premium no limit.)
-
-https://catbox.moe/ and https://litterbox.catbox.moe/ (Catbox allows up to 200mb and the download doesnt expire. Litterbox has up to 1gb and can expire up to 3 days.)
-
-https://pixeldrain.com/ (5gb per file on free version + after 30 days without new views the file will be deleted. Pro version (2€ per month) has 15gb per file and 90 days without new views will be deleted.)
-
-https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
-
-https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BLOCKED IN ITALY)
-
-https://www.sendspace.com/ (300mb per file)
-
-https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited download speed)
-
-https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
-
 https://usersdrive.com/
-
-http://uploadboy.com/ (100gb free space)
-
-https://userscloud.com/ (up to 5gb, 50 files)
-
-https://anonfiles.com/ (20gb per file, unlimited bandwidth) (BLOCKED IN ITALY)
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
