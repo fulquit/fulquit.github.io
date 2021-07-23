@@ -47,6 +47,8 @@ S/G | https://rarbg.to / https://proxyrarbg.org
 
 S/G | https://1337x.to / https://1337xx.to
 
+S | http://monkrus.ws/ (good for adobe and windows / office)
+
 ***UPLOAD/DOWNLOAD***
 
 https://drive.google.com + https://pastelink.net/2zw21 + https://pastelink.net/32spn
@@ -240,6 +242,8 @@ S | https://gw11.tech/ (links and mirrors to the leaked .iso of windows 11)
 S | https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool (windows and office iso download tool, pretty good)
 
 S | https://rufus.ie/en_US/ (rufus now has the ability to download the iso's of win10, 8.1 and 7, directly from microsoft)
+
+S | http://monkrus.ws/ (windows / office)
 
 ***SEARCH ENGINES***
 
