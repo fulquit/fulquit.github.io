@@ -13,6 +13,8 @@ https://vimm.net/?p=vault (A variety of roms for different consoles)
 
 https://archive.org/details/ds-firmware_dsi-nand-and-firmware (DSi nand and firmware files that work with melonds)
 
+https://rentry.org/pgames-mega-thread
+
 Note: the roms i linked will not work on real hardware. They only work on emulators
 
 ***PASTE TEXT***
@@ -48,6 +50,8 @@ S/G | https://rarbg.to / https://proxyrarbg.org
 S/G | https://1337x.to / https://1337xx.to
 
 S | http://monkrus.ws/ (good for adobe and windows / office)
+
+G | https://rentry.org/pgames-mega-thread
 
 ***UPLOAD/DOWNLOAD***
 
