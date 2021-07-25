@@ -1,6 +1,8 @@
 
 ### ***THE LIST OF USEFUL STUFF, [MADE BY FULQUIT](https://fulquit.github.io/)***
 
+## Before visiting any of the website, be sure to use an adblocker!
+
 ***EMULATION***
 
 https://emulation.gametechwiki.com/index.php/Emulator_Files#Nintendo_Switch (Emulator files)
@@ -36,6 +38,8 @@ https://upaste.me/
 https://paste.teknik.io/
 
 https://pixeldrain.com/t
+
+https://rentry.org/
 
 ***SOFTWARE/GAMES***
 
