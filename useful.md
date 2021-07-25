@@ -59,7 +59,7 @@ G | https://rentry.org/pgames-mega-thread
 
 ***UPLOAD/DOWNLOAD***
 
-https://drive.google.com + https://pastelink.net/2zw21 + https://pastelink.net/32spn
+https://drive.google.com + https://pastelink.net/2zw21 + https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/
 
 https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
 
@@ -151,6 +151,8 @@ https://github.com/mrpond/BlockTheSpot actually works now yay
 https://pastelink.net/32spn (gdrive bypass quota)
 
 https://github.com/Kibakus/SpotifyBlockNewUI (removes the blank bar / upgrade button from spotify)
+
+https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/ (bypass gdrive quota)
 
 ***COMPRESSING/CONVERTING***
 
