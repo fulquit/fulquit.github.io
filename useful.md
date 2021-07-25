@@ -259,4 +259,6 @@ https://www.xdcc.eu/ (irc stuff)
 
 ***GUIDES***
 
+https://www.reddit.com/r/piracy/wiki/guides
+
 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and/ (guide on books and audiobooks)
