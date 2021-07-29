@@ -200,7 +200,7 @@ downloads albums/music from bandcamp
 
 desmume
 http://desmume.org/
-nintendo ds emulator
+nintendo ds emulator.
 i reccomend using a joypad with this emulator
 
 deemix
