@@ -29,10 +29,6 @@ https://1337x.to / https://1337xx.to
 
 https://old.reddit.com/r/Roms/wiki/index
 
-
-
-Note: the roms i linked will not work on real hardware. They only work on emulators
-
 ***PASTE TEXT***
 
 https://pastebin.com/
@@ -55,18 +51,19 @@ https://pixeldrain.com/t
 
 https://rentry.org/
 
-***SOFTWARE/GAMES***
+***SOFTWARE***
 
-S | https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
+https://rarbg.to / https://proxyrarbg.org 
 
+https://1337x.to / https://1337xx.to
 
-S | http://monkrus.ws/ (good for adobe and windows / office)
+http://monkrus.ws/ (good for adobe and windows / office)
 
-G | https://rentry.org/pgames-mega-thread
+https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
 
 ***UPLOAD/DOWNLOAD***
 
-https://drive.google.com + https://pastelink.net/2zw21 + https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/
+https://drive.google.com + https://pastelink.net/2zw21 + https://pastebin.com/kQp0eGSw
 
 https://onedrive.live.com/ (free 5gb per account, i don't reccommend paying for the other tiers with higher capacity, if you're uploading movies, upload them to multiple accounts/alts.)
 
@@ -161,6 +158,8 @@ https://github.com/Kibakus/SpotifyBlockNewUI (removes the blank bar / upgrade bu
 
 https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/ (bypass gdrive quota)
 
+https://pastebin.com/kQp0eGSw (other way to bypass gdrive quota)
+
 ***COMPRESSING/CONVERTING***
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
@@ -171,13 +170,7 @@ CONV | https://convert-my-image.com/ImageConverter (Resizes pictures to be 512x5
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
-***SOFTWARE***
-
-adobe master collection 2021 russian and english
-https://drive.google.com/drive/folders/1zOh64SNXfl0Og12W9LwFmvyXTQsY-jUW?usp=sharing (from the megadrive on discord!)
-
-gta: sa
-https://drive.google.com/file/d/0B-459mlkNsNQSS1weUxBcnR4eUU/view
+***LINKS TO USEFUL SOFTWARE***
 
 yt downloader w/gui
 https://mrs0m30n3.github.io/youtube-dl-gui/
@@ -211,15 +204,6 @@ you will need an account to download, so click on "Login with deezer.com"
 freezer
 https://files.freezer.life/0:/Android/
 choose your phone architecture then download, install the apk, log in your deezer account and you can also download tracks
-
-windows xp x64 professional with serial key included
-https://drive.google.com/drive/folders/1io9UW4c5hZ4b5ChZvsjN56S_IajzKjPZ?usp=sharing
-
-sony vegas pro 17 (pass: www.mysoftwarefree.com)
-https://mega.nz/file/34wiCCQI#uzVaA-Jl__mMA12lbtAs6VZXiJRLAEpN0sqoi7_ezT8
-
-fl studio 12 w/keygen
-https://drive.google.com/file/d/1JwRpdRdaYN7iW7DhHaOZ8oS0y9SYTxV0/view?usp=sharing
 
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
