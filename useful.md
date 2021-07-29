@@ -1,7 +1,7 @@
 
 # ***THE LIST OF USEFUL STUFF, [MADE BY FULQUIT](https://fulquit.github.io/)***
 
-### Before visiting any of the website, be sure to use an adblocker!
+### Before visiting any of the websites, be sure to use an adblocker!
 
 ***EMULATION / GAMES***
 
