@@ -1,20 +1,22 @@
 # MICROSOFT  
   
-S | https://tb.rg-adguard.net/public.php  
+S | https://tb.rg-adguard.net/public.php (Windows / Office)
   
-S | https://tb.rg-adguard.net/products.html  
+S | https://tb.rg-adguard.net/products.html  (Microsoft products)
+
+S | https://rg-adguard.net/ (Microsoft products)
   
-S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  
+S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  (Archived windows 7 .iso)
   
-S | https://the-eye.eu/public/MSDN/  
+S | https://the-eye.eu/public/MSDN/  (Microsoft products)
   
-S | https://pastebin.com/ELUQdsvx  
+S | https://pastebin.com/ELUQdsvx  (Temporary mirrors for win10)
   
-S | https://pastebin.com/raw/jduBSazJ  
+S | https://pastebin.com/raw/jduBSazJ  (Links for Office, Windows and other Microsoft related stuff.)
   
-S | https://uupdump.net  
+S | https://uupdump.net  (Microsoft uup dumps)
   
-S | https://rg-adguard.net/  
+S | https://rg-adguard.net/  (Microsoft related content, especially windows)
   
 S | https://winworldpc.com/ hekkin good for older versions of windows (e. windows 95 / 98)  
   
