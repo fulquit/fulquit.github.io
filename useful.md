@@ -191,20 +191,16 @@ downloads albums/music from bandcamp
 desmume
 http://desmume.org/
 nintendo ds emulator
-
 i reccomend using a joypad with this emulator
-
 full tutorial here: https://www.youtube.com/watch?v=GmafU0w1zWM
 
 deemix
 https://download.deemix.app/
-
 click on the gui directory, download the setup and install. you will need an account to download
 
 freezer
 https://freezer.life/
-download, install the apk, log in your deezer account and you can also download tracks
-
+download, install the apk, log in your deezer account and you can also download tracks.
 also works with pc. note: after deezer's changes with its api, you can't download .flac anymore
 
 soulseek
