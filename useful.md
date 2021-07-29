@@ -3,11 +3,13 @@
 
 ### Before visiting any of the website, be sure to use an adblocker!
 
-***EMULATION***
+***EMULATION / GAMES***
 
 https://emulation.gametechwiki.com/index.php/Emulator_Files#Nintendo_Switch (Emulator files)
 
-https://pastelink.net/28fga (A variety of roms for different consoles)
+https://r-roms.github.io/ (New r/roms subreddit megathread)
+
+https://pastelink.net/28fga (Old r/roms subreddit megathread)
 
 https://archive.org/download/noIntroNintendoDsDecrypted2019Jun30 (DS roms)
 
@@ -16,6 +18,18 @@ https://vimm.net/?p=vault (A variety of roms for different consoles)
 https://archive.org/details/ds-firmware_dsi-nand-and-firmware (DSi nand and firmware files that work with melonds)
 
 https://rentry.org/pgames-mega-thread
+
+https://steamunlocked.net/
+
+https://www.reddit.com/r/Piracy/wiki/megathread/games
+
+https://rarbg.to / https://proxyrarbg.org 
+
+https://1337x.to / https://1337xx.to
+
+https://old.reddit.com/r/Roms/wiki/index
+
+
 
 Note: the roms i linked will not work on real hardware. They only work on emulators
 
@@ -45,13 +59,6 @@ https://rentry.org/
 
 S | https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
 
-G | https://steamunlocked.net/
-
-G | https://www.reddit.com/r/Piracy/wiki/megathread/games
-
-S/G | https://rarbg.to / https://proxyrarbg.org 
-
-S/G | https://1337x.to / https://1337xx.to
 
 S | http://monkrus.ws/ (good for adobe and windows / office)
 
