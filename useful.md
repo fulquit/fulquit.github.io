@@ -116,6 +116,8 @@ S | https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy (Ab
 
 S | https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypasses yt age restriction)
 
+E | https://universal-bypass.org/install (bypasses sites like adf.ly and other sites like those)
+
 ***PIRACY***
 
 https://www.reddit.com/r/Piracy/wiki/megathread
