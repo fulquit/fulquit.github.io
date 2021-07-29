@@ -134,6 +134,12 @@ https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
 
 https://github.com/Otiel/BandcampDownloader downloads albums/music from bandcamp
 
+https://www.qbittorrent.org/download.php for p2p
+
+https://transmissionbt.com/about/ p2p
+
+https://www.biglybt.com/ p2p
+
 ***BYPASSING GENERAL BULLSHIT***
 
 https://violentmonkey.github.io/ to make the scripts run
@@ -164,6 +170,8 @@ COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
 
 CONV | https://convert-my-image.com/ImageConverter (Resizes pictures to be 512x512 or a custom set resolution)
 
+COMP / CONV | https://handbrake.fr/downloads.php (compress and convert)
+
 ***ACTIVATORS***
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
@@ -192,7 +200,6 @@ desmume
 http://desmume.org/
 nintendo ds emulator
 i reccomend using a joypad with this emulator
-full tutorial here: https://www.youtube.com/watch?v=GmafU0w1zWM
 
 deemix
 https://download.deemix.app/
@@ -250,8 +257,14 @@ S | http://monkrus.ws/ (windows / office)
 
 https://www.xdcc.eu/ (irc stuff)
 
+https://filepursuit.com/ (ddl search engine)
+
+https://zooqle.com/ (torrent aggregator)
+
 ***GUIDES***
 
 https://www.reddit.com/r/piracy/wiki/guides
 
 https://www.reddit.com/r/Piracy/comments/oreyow/heres_the_definitive_list_of_sites_for_ebooks_and/ (guide on books and audiobooks)
+
+https://old.reddit.com/r/Roms/wiki/index
