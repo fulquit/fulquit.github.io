@@ -217,11 +217,11 @@ http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant fo
 
 torrent clients:
 
-https://www.qbittorrent.org/download.php for p2p
+https://www.qbittorrent.org/download.php 
 
-https://transmissionbt.com/about/ p2p
+https://transmissionbt.com/about/ 
 
-https://www.biglybt.com/ p2p
+https://www.biglybt.com/ 
 
 ***MICROSOFT***
 
