@@ -220,7 +220,7 @@ S | https://the-eye.eu/public/MSDN/
 
 S | https://pastebin.com/ELUQdsvx
 
-S | https://pastebin.com/raw/jduBSazJ, p
+S | https://pastebin.com/raw/jduBSazJ
 
 S | https://uupdump.net 
 
