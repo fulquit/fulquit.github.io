@@ -215,6 +215,14 @@ also works with pc. note: after deezer's changes with its api, you can't downloa
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
 
+torrent clients:
+
+https://www.qbittorrent.org/download.php for p2p
+
+https://transmissionbt.com/about/ p2p
+
+https://www.biglybt.com/ p2p
+
 ***MICROSOFT***
 
 S | https://tb.rg-adguard.net/public.php (Windows / Office)
