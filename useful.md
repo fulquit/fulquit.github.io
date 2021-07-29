@@ -196,13 +196,12 @@ full tutorial here: https://www.youtube.com/watch?v=GmafU0w1zWM
 
 deemix
 https://download.deemix.app/
-click on the gui directory, download the setup and install
-you will need an account to download
+click on the gui directory, download the setup and install. you will need an account to download
 
 freezer
 https://freezer.life/
 download, install the apk, log in your deezer account and you can also download tracks
-also works with pc, but after deezer's changes with its api, you can't download .flac anymore
+also works with pc. note: after deezer's changes with its api, you can't download .flac anymore
 
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
