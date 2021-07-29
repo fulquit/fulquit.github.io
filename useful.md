@@ -150,9 +150,7 @@ https://knaben.info/ another proxy thingy
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
-https://github.com/mrpond/BlockTheSpot actually works now yay
-
-https://pastelink.net/32spn (gdrive bypass quota)
+https://github.com/mrpond/BlockTheSpot 
 
 https://github.com/Kibakus/SpotifyBlockNewUI (removes the blank bar / upgrade button from spotify)
 
@@ -197,13 +195,14 @@ i reccomend using a joypad with this emulator
 full tutorial here: https://www.youtube.com/watch?v=GmafU0w1zWM
 
 deemix
-https://download.deemix.app/0:/pyweb/
-click on the win release, extract the zip fle then  scroll down and open the . exe file called deemix-pyweb
-you will need an account to download, so click on "Login with deezer.com"
+https://download.deemix.app/
+click on the gui directory, download the setup and install
+you will need an account to download
 
 freezer
-https://files.freezer.life/0:/Android/
-choose your phone architecture then download, install the apk, log in your deezer account and you can also download tracks
+https://freezer.life/
+download, install the apk, log in your deezer account and you can also download tracks
+also works with pc, but after deezer's changes with its api, you can't download .flac anymore
 
 soulseek
 http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant for sharing music, i highly reccomend it if you want some spicy spicy .flacs
