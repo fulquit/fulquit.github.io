@@ -1,4 +1,4 @@
-Hello there! I'm fulquit. An italian dude who makes stuff on the internet. 
+Hello there! I'm fulquit. 
 
 This is a repository i made for my github page and to put my list of useful stuff on github. 
 
