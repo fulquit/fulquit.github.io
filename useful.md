@@ -29,6 +29,8 @@ https://1337x.to / https://1337xx.to
 
 https://old.reddit.com/r/Roms/wiki/index
 
+https://www.myabandonware.com/ (old games)
+
 ***PASTE TEXT***
 
 https://pastebin.com/
