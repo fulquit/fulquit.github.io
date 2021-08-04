@@ -5,7 +5,7 @@
 
 ***EMULATION / GAMES***
 
-https://emulation.gametechwiki.com/index.php/Emulator_Files#Nintendo_Switch (Emulator files)
+https://emulation.gametechwiki.com/index.php/Emulator_Files (Emulator files)
 
 https://r-roms.github.io/ (New r/roms subreddit megathread)
 
