@@ -138,6 +138,8 @@ https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
 
 https://github.com/Otiel/BandcampDownloader downloads albums/music from bandcamp
 
+https://www.whatismybrowser.com/developers/tools/wget-wizard/ wget wizard
+
 https://www.qbittorrent.org/download.php for p2p
 
 https://transmissionbt.com/about/ p2p
