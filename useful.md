@@ -226,7 +226,7 @@ exact audio copy
 https://www.exactaudiocopy.de/ rips cds into flacs
 
 freac
-https://www.freac.org/ free audio converter
+https://www.freac.org/ free audio converter + integrated cd ripper
 
 torrent clients:
 
