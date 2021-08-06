@@ -222,6 +222,12 @@ http://www.slsknet.org/news/node/1 a p2p (peer to peer) torrent program meant fo
 make mkv
 https://www.makemkv.com/ rips dvds into .mkv 
 
+exact audio copy
+https://www.exactaudiocopy.de/ rips cds into flacs
+
+freac
+https://www.freac.org/ free audio converter
+
 torrent clients:
 
 https://www.qbittorrent.org/download.php 
