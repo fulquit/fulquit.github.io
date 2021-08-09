@@ -248,6 +248,8 @@ S | https://tb.rg-adguard.net/public.php (Windows / Office)
 S | https://tb.rg-adguard.net/products.html  (Microsoft products)
 
 S | https://rg-adguard.net/ (Microsoft products)
+
+S | https://pastebin.com/WLqMSkji + https://pastelink.net/37806 (all of the windows i could find)
   
 S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  (Archived windows 7 .iso)
   
