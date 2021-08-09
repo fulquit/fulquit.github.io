@@ -274,6 +274,8 @@ S | https://rufus.ie/en_US/ (rufus now has the ability to download the iso's of 
 
 S | http://monkrus.ws/ (windows / office)
 
+C | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tutorial here https://www.tenforums.com/tutorials/74480-uup-iso-create-bootable-iso-windows-10-build-upgrade-files.html
+
 ***SEARCH ENGINES***
 
 https://www.xdcc.eu/ (irc stuff)
