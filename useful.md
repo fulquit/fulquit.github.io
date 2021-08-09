@@ -134,7 +134,7 @@ https://downsub.com/ (yt subtitles dl)
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
-https://mrs0m30n3.github.io/youtube-dl-gui/ ytdl with gui
+https://github.com/oleksis/youtube-dl-gui better fork of ytdlg
 
 https://github.com/Otiel/BandcampDownloader downloads albums/music from bandcamp
 
@@ -184,8 +184,8 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 ***LINKS TO USEFUL SOFTWARE***
 
-yt downloader w/gui
-https://mrs0m30n3.github.io/youtube-dl-gui/
+ytdlg forked and better 
+https://github.com/oleksis/youtube-dl-gui 
 
 video file re-encoder 
 https://handbrake.fr/downloads.php
