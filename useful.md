@@ -274,6 +274,12 @@ S | https://rg-adguard.net/  (Microsoft related content, especially windows)
 S | https://winworldpc.com/ hekkin good for older versions of windows (e. windows 95 / 98)  
   
 C | https://github.com/massgravel/Microsoft-Activation-Scripts (especially useful when downloading untouched microsoft iso)
+
+C | https://github.com/abbodi1406/KMS_VL_ALL_AIO (kms)
+
+C | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
+
+C | https://github.com/abbodi1406/vcredist (AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes)
   
 K | https://gist.github.com/KrustyHack/9fda16a81e65b9be878d3bcbcddf677c (windows 7 and up serial keys)  
   
