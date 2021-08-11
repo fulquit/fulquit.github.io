@@ -73,7 +73,11 @@ https://mega.io/ (Note: only 40gb per hour and 20gb storage)
 
 https://anonfiles.com/ (20gb per file, unlimited bandwidth) (BLOCKED IN ITALY)
 
+https://fileditch.com/ (15gig maximum, deleted after 5 days without downloads)
+
 https://www.mediafire.com/ (10gb free and 4gb per file)
+
+https://tmp.ninja/ (10gb maximum, expires after 48 hours)
 
 https://1fichier.com/ (Note: unregistered users download will expire in 15 days, registered users in 30, and premium (paid) doesnt do that.) (Also, if you have Fastweb, this domain might be blocked. I still don't know why.)
 
@@ -88,6 +92,8 @@ http://uploadboy.com/ (100gb free space)
 
 https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
 
+https://zz.ht/ (1gig maximum)
+
 https://userscloud.com/ (up to 5gb, 50 files)
 
 https://catbox.moe/ and https://litterbox.catbox.moe/ (Catbox allows up to 200mb and the download doesnt expire. Litterbox has up to 1gb and can expire up to 3 days.)
@@ -97,6 +103,8 @@ https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BL
 https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
 
 https://www.sendspace.com/ (300mb per file)
+
+https://cockfile.com/ (2gig maximum, 24 hours expiration date)
 
 https://filebin.net/ (Note: link will automatically expire after 1 week.)
 
