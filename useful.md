@@ -192,6 +192,8 @@ COMP / CONV | https://handbrake.fr/downloads.php (compress and convert)
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
+https://github.com/abbodi1406/KMS_VL_ALL_AIO 
+
 ***LINKS TO USEFUL SOFTWARE***
 
 ytdl with gui
