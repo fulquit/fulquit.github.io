@@ -114,6 +114,8 @@ https://www.file.io/ (Note: download will self-destruct after download + 100mb l
 
 https://tmpfiles.org/ (Note: has a limited amount of time to download, max 120 minutes and 100mb per file)
 
+https://host-a.net/
+
 https://usersdrive.com/
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
