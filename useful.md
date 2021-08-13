@@ -17,17 +17,17 @@ https://vimm.net/?p=vault (A variety of roms for different consoles)
 
 https://archive.org/details/ds-firmware_dsi-nand-and-firmware (DSi nand and firmware files that work with melonds)
 
-https://rentry.org/pgames-mega-thread
+https://rentry.org/pgames-mega-thread (pirated games megathread from piratedgames)
 
-https://steamunlocked.net/
+https://steamunlocked.net/ (ddl preinstalled games)
 
-https://www.reddit.com/r/Piracy/wiki/megathread/games
+https://www.reddit.com/r/Piracy/wiki/megathread/games (piracy megathread for games)
 
-https://rarbg.to / https://proxyrarbg.org 
+https://rarbg.to / https://proxyrarbg.org (torrent, scene releases)
 
-https://1337x.to / https://1337xx.to
+https://1337x.to / https://1337xx.to (torrent)
 
-https://old.reddit.com/r/Roms/wiki/index
+https://old.reddit.com/r/Roms/wiki/index (r/roms megathread)
 
 https://www.myabandonware.com/ (old games)
 
@@ -86,25 +86,25 @@ days, while registered 30 days and premium no limit.)
 
 https://pixeldrain.com/ (5gb per file on free version + after 30 days without new views the file will be deleted. Pro version (2€ per month) has 15gb per file and 90 days without new views will be deleted.)
 
+http://uploadboy.com/ (100gb free space)
+
 https://up-load.io/ (50gb free storage, unlimited upload speed, unlimited download speed)
 
-http://uploadboy.com/ (100gb free space)
+https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BLOCKED IN ITALY)
+
+https://userscloud.com/ (up to 5gb, 50 files)
+
+https://cockfile.com/ (2gig maximum, 24 hours expiration date)
 
 https://krakenfiles.com/ (1gb free version and 5gb paid. The file will be deleted after 3 months without a download (free version) and 6 months with no download (paid version))
 
 https://zz.ht/ (1gig maximum)
 
-https://userscloud.com/ (up to 5gb, 50 files)
-
 https://catbox.moe/ and https://litterbox.catbox.moe/ (Catbox allows up to 200mb and the download doesnt expire. Litterbox has up to 1gb and can expire up to 3 days.)
-
-https://www.zippyshare.com/ (unlimited diskspace, no paying, 500mb per file) (BLOCKED IN ITALY)
 
 https://uploadev.org/ (500mb per file, pretty good perks being a free upload/download free site)
 
 https://www.sendspace.com/ (300mb per file)
-
-https://cockfile.com/ (2gig maximum, 24 hours expiration date)
 
 https://filebin.net/ (Note: link will automatically expire after 1 week.)
 
