@@ -106,6 +106,8 @@ https://uploadev.org/ (500mb per file, pretty good perks being a free upload/dow
 
 https://www.sendspace.com/ (300mb per file)
 
+https://host-a.net/ (256mb per file)
+
 https://filebin.net/ (Note: link will automatically expire after 1 week.)
 
 https://gofile.io/welcome (Note: after 10 days the files will be deleted.)
@@ -113,8 +115,6 @@ https://gofile.io/welcome (Note: after 10 days the files will be deleted.)
 https://www.file.io/ (Note: download will self-destruct after download + 100mb limit)
 
 https://tmpfiles.org/ (Note: has a limited amount of time to download, max 120 minutes and 100mb per file)
-
-https://host-a.net/
 
 https://usersdrive.com/
 
