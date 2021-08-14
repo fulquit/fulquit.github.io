@@ -67,6 +67,8 @@ https://downloadui.bobpony.com/ (microsoft related software + some other useful 
 
 https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 2019)
 
+https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
+
 ***UPLOAD/DOWNLOAD***
 
 https://drive.google.com + https://pastelink.net/2zw21 + https://pastebin.com/kQp0eGSw
