@@ -53,7 +53,7 @@ https://pixeldrain.com/t
 
 https://rentry.org/
 
-***CRACKED SOFTWARE***
+***WHERE TO FIND SOFTWARE***
 
 https://rarbg.to / https://proxyrarbg.org 
 
@@ -62,6 +62,8 @@ https://1337x.to / https://1337xx.to
 http://monkrus.ws/ (good for adobe and windows / office)
 
 https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
+
+https://downloadui.bobpony.com/ (microsoft related software + some other useful stuff)
 
 ***UPLOAD/DOWNLOAD***
 
@@ -263,7 +265,7 @@ S | https://tb.rg-adguard.net/products.html  (Microsoft products)
 
 S | https://rg-adguard.net/ (Microsoft products)
 
-S | https://downloadui.bobpony.com/ (Windows)
+S | https://downloadui.bobpony.com/ (Windows and much more)
 
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
   
