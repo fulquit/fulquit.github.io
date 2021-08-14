@@ -17,6 +17,8 @@ S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 S | https://pastebin.com/ELUQdsvx  (Temporary mirrors for win10)
   
 S | https://pastebin.com/raw/jduBSazJ  (Links for Office, Windows and other Microsoft related stuff.)
+
+S | https://pastebin.com/raw/PLhB7UnK (abbodi's pastebin of office 19/365 .img files)
   
 S | https://uupdump.net  (Microsoft uup dumps)
   
