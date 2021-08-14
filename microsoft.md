@@ -49,6 +49,8 @@ S | http://monkrus.ws/ (windows / office)
 R | https://pastebin.com/tMiSV6WT (Windows 10's icons dedicated .dll files location)
 
 C | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tutorial here https://www.tenforums.com/tutorials/74480-uup-iso-create-bootable-iso-windows-10-build-upgrade-files.html
+
+S | https://web.archive.org/web/20210701121917/https://gw11.tech/ (archived gw11.tech website, with various mirrors to the leaked win11)
  
 
 DIRECTLY TAKEN FROM FULQUIT'S LIST OF USEFUL STUFF https://github.com/fulquit/fulquit.github.io/  
