@@ -65,6 +65,8 @@ https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, A
 
 https://downloadui.bobpony.com/ (microsoft related software + some other useful stuff)
 
+https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 2019)
+
 ***UPLOAD/DOWNLOAD***
 
 https://drive.google.com + https://pastelink.net/2zw21 + https://pastebin.com/kQp0eGSw
