@@ -271,12 +271,16 @@ S | https://rg-adguard.net/ (Microsoft products)
 
 S | https://downloadui.bobpony.com/ (Windows and much more)
 
-S | https://pastebin.com/WLqMSkji (all of the windows i could find)
-  
-S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  (Archived windows 7 .iso)
-  
+S | https://pastebin.com/WLqMSkji (all of the windows i could find)  
+
 S | https://the-eye.eu/public/MSDN/  (Microsoft products)
-  
+
+S | https://github.com/luzeadev/microsoft-download-link-archive (microsoft dl links archived in a git repo)
+
+S | https://github.com/St1ckys/Win11 (TPM bypasser for win11)
+
+S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  (Archived windows 7 .iso)
+
 S | https://pastebin.com/ELUQdsvx  (Temporary mirrors for win10)
   
 S | https://pastebin.com/raw/jduBSazJ  (Links for Office, Windows and other Microsoft related stuff.)
@@ -286,6 +290,8 @@ S | https://pastebin.com/raw/PLhB7UnK (abbodi's pastebin of office 19/365 .img f
 S | https://uupdump.net  (Microsoft uup dumps)
   
 S | https://rg-adguard.net/  (Microsoft related content, especially windows)
+
+C | https://github.com/ExeCsrss/EzWindSLIC (win7 activator)
   
 S | https://winworldpc.com/ hekkin good for older versions of windows (e. windows 95 / 98)  
   
