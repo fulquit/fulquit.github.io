@@ -13,6 +13,14 @@ S | https://downloadui.bobpony.com/ (Windows)
 S | https://techbench.luzea.ovh/ (Windows/other stuff)
 
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
+
+S | https://techbench.luzea.ovh/ (Windows/other stuff)
+
+S | https://github.com/luzeadev/microsoft-download-link-archive (microsoft dl links archived in a git repo)
+
+S | https://github.com/St1ckys/Win11 (TPM bypasser for win11)
+
+C | https://github.com/ExeCsrss/EzWindSLIC (win7 activator)
   
 S | https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/  (Archived windows 7 .iso)
   
