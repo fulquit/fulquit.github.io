@@ -271,7 +271,9 @@ S | https://rg-adguard.net/ (Microsoft products)
 
 S | https://downloadui.bobpony.com/ (Windows and much more)
 
-S | https://pastebin.com/WLqMSkji (all of the windows i could find)  
+S | https://pastebin.com/WLqMSkji (all of the windows i could find) 
+
+S | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
 
 S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 
