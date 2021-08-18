@@ -16,6 +16,8 @@ S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
 
+S | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
+
 S | https://techbench.luzea.ovh/ (Windows/other stuff)
 
 S | https://pastebin.com/raw/jduBSazJ  (Links for Office, Windows and other Microsoft related stuff.)
