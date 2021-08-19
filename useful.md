@@ -19,6 +19,8 @@ https://archive.org/details/ds-firmware_dsi-nand-and-firmware (DSi nand and firm
 
 https://rentry.org/pgames-mega-thread (pirated games megathread from piratedgames)
 
+https://pastebin.com/QUqKU4KB (trustable list of repackers, crackers, sites etc.)
+
 https://steamunlocked.net/ (ddl preinstalled games)
 
 https://www.reddit.com/r/Piracy/wiki/megathread/games (piracy megathread for games)
