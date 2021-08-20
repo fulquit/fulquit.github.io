@@ -1,8 +1,8 @@
 # Welcome to my website!
 
-## [Fulquit's list of useful stuff](useful.md)
+### [Fulquit's list of useful stuff](useful.md)
 
-## [My microsoft list of stuff](microsoft.md)
+### [My microsoft list of stuff](microsoft.md)
 
 [GitHub Repo](https://github.com/fulquit/fulquit.github.io)
 
