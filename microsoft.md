@@ -6,6 +6,8 @@ S | https://nnmclub.to/forum/viewforum.php?f=504 (Windows 10)
   
 S | https://tb.rg-adguard.net/products.html  (Microsoft products)
 
+S | https://files.rg-adguard.net/category (Microsoft)
+
 S | https://rg-adguard.net/ (Microsoft products)
 
 S | https://downloadui.bobpony.com/ (Windows)
