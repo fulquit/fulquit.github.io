@@ -29,6 +29,8 @@ https://rarbg.to / https://proxyrarbg.org (torrent, scene releases)
 
 https://1337x.to / https://1337xx.to (torrent)
 
+https://rutracker.org/ / https://rutracker.net/ (torrent)
+
 https://old.reddit.com/r/Roms/wiki/index (r/roms megathread)
 
 https://www.myabandonware.com/ (old games)
@@ -62,6 +64,8 @@ https://rarbg.to / https://proxyrarbg.org
 https://1337x.to / https://1337xx.to
 
 http://monkrus.ws/ (good for adobe and windows / office)
+
+https://rutracker.org/ / https://rutracker.net/ (torrent)
 
 https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
 
