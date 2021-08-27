@@ -57,6 +57,8 @@ https://pixeldrain.com/t
 
 https://rentry.org/
 
+https://bin.disroot.org/
+
 ***WHERE TO FIND SOFTWARE***
 
 https://rarbg.to / https://proxyrarbg.org 
