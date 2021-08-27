@@ -69,6 +69,8 @@ http://monkrus.ws/ (good for adobe and windows / office)
 
 https://rutracker.org/ / https://rutracker.net/ (torrent)
 
+https://rentry.org/SoftwarePirates-Megathread
+
 https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, Adobe) because of mega taking them down)
 
 https://downloadui.bobpony.com/ (microsoft related software + some other useful stuff)
