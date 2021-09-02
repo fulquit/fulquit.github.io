@@ -62,6 +62,10 @@ C | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
 
 C | https://rentry.co/ActivateWin10 (guide on how to activate win10)
 
+C | https://rentry.org/activatewin10ita (italian translation of guide above)
+
+C | https://gist.github.com/fulquit/e37df49c1f6c56fba874377d9dd8fff0
+
 C | https://github.com/abbodi1406/vcredist (AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes)
 
 K | https://gist.github.com/KrustyHack/9fda16a81e65b9be878d3bcbcddf677c (windows 7 and up serial keys)  
