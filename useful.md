@@ -75,6 +75,8 @@ https://mysoftwarefree.com/ (some downloads are unavailable (Office 16,19,365, A
 
 https://downloadui.bobpony.com/ (microsoft related software + some other useful stuff)
 
+http://forum.ru-board.com/topic.cgi?forum=35&topic=34925&start=2&limit=1&m=6#1 (list of modern patches for adobe, highly reccomended)
+
 https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 2019)
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
