@@ -62,6 +62,8 @@ C | https://github.com/abbodi1406/KMS_VL_ALL_AIO (kms)
 
 C | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
 
+C | https://github.com/YerongAI/Office-Tool (office tool)
+
 T | http://forum.ru-board.com/topic.cgi?forum=35&topic=81283&start=2861&limit=1&m=1#1 (officeio)
 
 C | https://rentry.co/ActivateWin10 (guide on how to activate win10)
