@@ -11,7 +11,7 @@ Hello there! I'm fulquit. An italian dude who makes stuff on the internet. Here 
 If you wanna add something to the list of useful stuff, or the microsoft.md, add an [issue](https://github.com/fulquit/fulquit.github.io/issues) or a [pull](https://github.com/fulquit/fulquit.github.io/pulls)
 
 People who've helped with this project:
-wget-MarSOl, Ricardo
+wget-MarSOl, Ricardo, 996Jack
 
 Me on other platforms:
 
