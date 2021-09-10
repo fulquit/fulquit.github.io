@@ -77,6 +77,8 @@ https://downloadui.bobpony.com/ (microsoft related software + some other useful 
 
 http://forum.ru-board.com/topic.cgi?forum=35&topic=34925&start=2&limit=1&m=6#1 (list of modern patches for adobe, highly reccomended)
 
+http://forum.ru-board.com/topic.cgi?forum=35&topic=82415#1 (ru-board's thread of adobe cc)
+
 https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 2019)
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
