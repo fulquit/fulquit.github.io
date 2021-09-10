@@ -79,6 +79,8 @@ http://forum.ru-board.com/topic.cgi?forum=35&topic=34925&start=2&limit=1&m=6#1 (
 
 http://forum.ru-board.com/topic.cgi?forum=35&topic=82415#1 (ru-board's thread of adobe cc)
 
+http://forum.ru-board.com/topic.cgi?forum=35&topic=81283&start=2861&limit=1&m=1#1 (officeio)
+
 https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 2019)
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
@@ -338,6 +340,8 @@ C | https://github.com/massgravel/Microsoft-Activation-Scripts (especially usefu
 C | https://github.com/abbodi1406/KMS_VL_ALL_AIO (kms)
 
 C | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
+
+T | http://forum.ru-board.com/topic.cgi?forum=35&topic=81283&start=2861&limit=1&m=1#1 (officeio)
 
 C | https://rentry.co/ActivateWin10 (guide on how to activate win10)
 
