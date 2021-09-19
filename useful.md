@@ -368,6 +368,8 @@ https://www.xdcc.eu/ (irc stuff)
 https://filepursuit.com/ (ddl search engine)
 
 https://zooqle.com/ (torrent aggregator)
+
+https://torrent-paradise.ml/ (torrent)
  
 ***GUIDES***
 
