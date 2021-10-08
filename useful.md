@@ -1,9 +1,9 @@
 
 # ***THE LIST OF USEFUL STUFF, [MADE BY FULQUIT](https://fulquit.github.io/)***
 
-### Before visiting any of the websites, be sure to use an adblocker!
+## Before visiting any of the websites, be sure to use an adblocker!
 
-***EMULATION / GAMES***
+## EMULATION / GAMES
 
 https://emulation.gametechwiki.com/index.php/Emulator_Files (Emulator files)
 
@@ -35,7 +35,7 @@ https://old.reddit.com/r/Roms/wiki/index (r/roms megathread)
 
 https://www.myabandonware.com/ (old games)
 
-***PASTE TEXT***
+## PASTE TEXT
 
 https://pastebin.com/
 
@@ -59,7 +59,7 @@ https://rentry.org/
 
 https://bin.disroot.org/
 
-***WHERE TO FIND SOFTWARE***
+## WHERE TO FIND SOFTWARE
 
 https://rarbg.to / https://proxyrarbg.org 
 
@@ -87,7 +87,7 @@ https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
 
-***UPLOAD/DOWNLOAD***
+## UPLOAD/DOWNLOAD
 
 https://drive.google.com + https://pastelink.net/2zw21 + https://pastebin.com/kQp0eGSw
 
@@ -146,7 +146,7 @@ https://usersdrive.com/
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
 
-***EXTENSIONS/SCRIPTS***
+## EXTENSIONS/SCRIPTS
 
 E | https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag (Violentmonkey: script runner)
 
@@ -156,13 +156,13 @@ S | https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypass
 
 E | https://universal-bypass.org/install (bypasses sites like adf.ly and other sites like those)
 
-***PIRACY***
+## PIRACY
 
 https://www.reddit.com/r/Piracy/wiki/megathread
 
 https://forum.mobilism.me/ apk / ebooks piracy
 
-***DLS***
+## DLS
 
 https://sctomp3.net/ (soundcloud dl (not a program cuz fuck command lines))
 
@@ -184,7 +184,7 @@ https://transmissionbt.com/about/ p2p
 
 https://www.biglybt.com/ p2p
 
-***BYPASSING GENERAL BULLSHIT***
+## BYPASSING GENERAL BULLSHIT
 
 https://violentmonkey.github.io/ to make the scripts run
 
@@ -208,7 +208,7 @@ https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_do
 
 https://pastebin.com/kQp0eGSw (other way to bypass gdrive quota)
 
-***COMPRESSING/CONVERTING***
+## COMPRESSING/CONVERTING
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
 
@@ -216,13 +216,13 @@ CONV | https://convert-my-image.com/ImageConverter (Resizes pictures to be 512x5
 
 COMP / CONV | https://handbrake.fr/downloads.php (compress and convert)
 
-***ACTIVATORS***
+## ACTIVATORS
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 https://github.com/abbodi1406/KMS_VL_ALL_AIO 
 
-***LINKS TO USEFUL SOFTWARE***
+## LINKS TO USEFUL SOFTWARE
 
 ytdl with gui
 https://github.com/MrS0m30n3/youtube-dl-gui
@@ -279,7 +279,7 @@ https://transmissionbt.com/about/
 
 https://www.biglybt.com/ 
 
-***MICROSOFT***
+## MICROSOFT
 
 S | https://tb.rg-adguard.net/public.php (Windows / Office)
 
@@ -361,7 +361,7 @@ K | https://windows95keygen.tk/ (win 95 / nt keygen online)
 
 C | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tutorial here https://www.tenforums.com/tutorials/74480-uup-iso-create-bootable-iso-windows-10-build-upgrade-files.html
 
-***SEARCH ENGINES***
+## SEARCH ENGINES
 
 https://www.xdcc.eu/ (irc stuff)
 
@@ -373,7 +373,7 @@ https://torrent-paradise.ml/ (torrent)
 
 https://www.filechef.com/ (od file search engine)
  
-***GUIDES***
+## GUIDES
 
 https://www.reddit.com/r/piracy/wiki/guides
 
