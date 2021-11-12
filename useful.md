@@ -59,6 +59,8 @@ https://rentry.org/
 
 https://bin.disroot.org/
 
+https://0bin.net/
+
 ## WHERE TO FIND SOFTWARE
 
 https://rarbg.to / https://proxyrarbg.org 
