@@ -35,6 +35,20 @@ https://old.reddit.com/r/Roms/wiki/index (r/roms megathread)
 
 https://www.myabandonware.com/ (old games)
 
+https://nxbrew.com/ (nsw)
+
+https://nsw2u.xyz/ (nsw)
+
+https://nswgame.com/category/switch/ (nsw)
+
+https://www.ziperto.com/nintendo-switch-nsp/ (nsw)
+
+https://www.softcobra.com/ntdo/ntdo-swh/swh-nsp-collection/  (nsw)
+
+https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml (AlvRo's collection)
+
+https://docs.google.com/document/d/1uflCrkJ7ZZH7W0VfCyNB3ZY92bkxxStSz_cWIYJiuTU/edit (various nintendo stuff)
+
 ## PASTE TEXT
 
 https://pastebin.com/
