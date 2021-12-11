@@ -21,8 +21,6 @@ https://rentry.org/pgames-mega-thread (pirated games megathread from piratedgame
 
 https://pastebin.com/QUqKU4KB (trustable list of repackers, crackers, sites etc.)
 
-https://steamunlocked.net/ (ddl preinstalled games)
-
 https://www.reddit.com/r/Piracy/wiki/megathread/games (piracy megathread for games)
 
 https://rarbg.to / https://proxyrarbg.org (torrent, scene releases)
