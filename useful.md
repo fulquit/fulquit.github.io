@@ -244,6 +244,8 @@ COMP / CONV | https://handbrake.fr/downloads.php (compress and convert)
 
 ## ACTIVATORS
 
+https://github.com/luzeadev/winactivate
+
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 https://github.com/abbodi1406/KMS_VL_ALL_AIO 
@@ -253,7 +255,7 @@ https://github.com/abbodi1406/KMS_VL_ALL_AIO
 ytdl with gui
 https://github.com/MrS0m30n3/youtube-dl-gui
 
-ytdlg forked and better 
+ytdlgui forked and better 
 https://github.com/oleksis/youtube-dl-gui 
 
 video file re-encoder 
