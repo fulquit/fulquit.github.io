@@ -101,6 +101,16 @@ https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
 
+## MUSIC
+
+https://rutracker.org / https://rutracker.net (best one in my opinion)
+
+https://pastebin.com/raw/UeNA9U03 (list of ddl / torrent sites for music)
+
+http://www.slsknet.org/news/node/1 (Soulseek original client)
+
+https://github.com/nicotine-plus/nicotine-plus (Soulseek client with more features)
+
 ## UPLOAD/DOWNLOAD
 
 https://drive.google.com + https://pastelink.net/2zw21 + https://pastebin.com/kQp0eGSw
@@ -178,7 +188,7 @@ https://forum.mobilism.me/ apk / ebooks piracy
 
 ## DLS
 
-https://sctomp3.net/ (soundcloud dl (not a program cuz fuck command lines))
+https://sctomp3.net/ (soundcloud dl (not a program cuz too bored to learn another cli program))
 
 https://downsub.com/ (yt subtitles dl)
 
@@ -207,6 +217,8 @@ https://violentmonkey.github.io/ to make the scripts run
 (script) https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypasses yt age restriction)
 
 https://universal-bypass.org/install (same premise as adsbypasser)
+
+https://12ft.io/ bypasses paywalls and stuff
 
 https://unblocked-pw.github.io/ proxy thingy
 
@@ -314,6 +326,10 @@ S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
 
 S | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
+
+S | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
+
+S | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
 
 S | https://techbench.luzea.ovh/ (Windows/other stuff)
 
