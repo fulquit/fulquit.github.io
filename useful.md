@@ -327,6 +327,8 @@ S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
 
+S | https://pastebin.com/raw/qfgR5JaZ (Microsoft Serial Keys, Windows / Office)
+
 S | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
 
 S | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
