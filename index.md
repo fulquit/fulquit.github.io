@@ -2,8 +2,6 @@
 
 ### [Fulquit's list of useful stuff](useful.md)
 
-### [My microsoft list of stuff](microsoft.md)
-
 [GitHub Repo](https://github.com/fulquit/fulquit.github.io)
 
 Hello there! I'm fulquit. An italian dude who makes stuff on the internet. Here you can find a list of manually compiled lists of stuff that i find useful.
