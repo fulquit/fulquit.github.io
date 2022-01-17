@@ -322,6 +322,12 @@ S | https://rg-adguard.net/ (Microsoft products)
 S | https://downloadui.bobpony.com/ (Windows)
 
 S | https://techbench.luzea.ovh/ (Windows/other stuff)
+
+S | https://stuff.mtt-m1.workers.dev/0:/ (untouched ISOs)
+
+S | https://isofiles.bd581e55.workers.dev/0:/ (untouched ISOs)
+
+S | https://opendirectory.luzea.de/ (untouched ISOs and other stuff)
   
 S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 
