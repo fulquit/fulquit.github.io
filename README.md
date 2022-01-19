@@ -1,5 +1,5 @@
 
-# (Useful stuff)[https://github.com/fulquit/fulquit.github.io/blob/main/useful.md]
+# [Useful stuff](https://github.com/fulquit/fulquit.github.io/blob/main/useful.md)
 
 This is a repository i made for my github page and to put my list of useful stuff on github. 
 
