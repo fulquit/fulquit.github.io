@@ -71,6 +71,8 @@ https://rentry.org/
 
 https://bin.disroot.org/
 
+https://katb.in/
+
 https://0bin.net/
 
 ## WHERE TO FIND SOFTWARE
