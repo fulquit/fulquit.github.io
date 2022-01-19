@@ -333,13 +333,13 @@ S | https://the-eye.eu/public/MSDN/  (Microsoft products)
 
 S | https://pastebin.com/WLqMSkji (all of the windows i could find)
 
-S | https://pastebin.com/raw/qfgR5JaZ (Microsoft Serial Keys, Windows / Office)
+K | https://pastebin.com/raw/qfgR5JaZ (Microsoft Serial Keys, Windows / Office)
 
-S | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
+K | https://pastebin.com/RiuJ56H2 (Windows Serial Keys)
 
-S | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
+K | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
 
-S | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
+K | https://pastebin.com/H7Ui8NZS (Windows Serial Keys)
 
 S | https://techbench.luzea.ovh/ (Windows/other stuff)
 
@@ -373,17 +373,17 @@ S | http://monkrus.ws/ (windows / office)
 
 R | https://pastebin.com/tMiSV6WT (Windows 10's icons dedicated .dll files location)
 
-S | https://github.com/St1ckys/Win11 (TPM bypasser for win11)
+T | https://github.com/St1ckys/Win11 (TPM bypasser for win11)
 
-C | https://github.com/ExeCsrss/EzWindSLIC (win7 activator)
+T | https://github.com/ExeCsrss/EzWindSLIC (win7 activator)
 
-C | https://github.com/massgravel/Microsoft-Activation-Scripts (especially useful when downloading untouched microsoft iso)
+T | https://github.com/massgravel/Microsoft-Activation-Scripts (especially useful when downloading untouched microsoft iso)
 
-C | https://github.com/abbodi1406/KMS_VL_ALL_AIO (kms)
+T | https://github.com/abbodi1406/KMS_VL_ALL_AIO (kms)
 
-C | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
+T | https://github.com/abbodi1406/C2R-R2V-AIO (license converter for office)
 
-C | https://github.com/YerongAI/Office-Tool (office tool)
+T | https://github.com/YerongAI/Office-Tool (office tool)
 
 T | http://forum.ru-board.com/topic.cgi?forum=35&topic=81283&start=2861&limit=1&m=1#1 (officeio)
 
@@ -393,13 +393,13 @@ C | https://rentry.org/activatewin10ita (italian translation of guide above)
 
 C | https://gist.github.com/fulquit/e37df49c1f6c56fba874377d9dd8fff0
 
-C | https://github.com/abbodi1406/vcredist (AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes)
+T | https://github.com/abbodi1406/vcredist (AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes)
 
 K | https://gist.github.com/KrustyHack/9fda16a81e65b9be878d3bcbcddf677c (windows 7 and up serial keys)  
   
 K | https://windows95keygen.tk/ (win 95 / nt keygen online)  
 
-C | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tutorial here https://www.tenforums.com/tutorials/74480-uup-iso-create-bootable-iso-windows-10-build-upgrade-files.html
+T | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tutorial here https://www.tenforums.com/tutorials/74480-uup-iso-create-bootable-iso-windows-10-build-upgrade-files.html
 
 ## SEARCH ENGINES
 
