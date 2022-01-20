@@ -419,8 +419,6 @@ https://ravegamesearch.pages.dev/ (game searcher)
 
 https://ravebooksearch.com/ (book and audiobook searcher)
 
-https://ravesoftwaresearch.pages.dev/ (software)
- 
 ## GUIDES
 
 https://www.reddit.com/r/piracy/wiki/guides
