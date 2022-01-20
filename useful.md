@@ -418,6 +418,8 @@ https://www.filechef.com/ (od file search engine)
 https://ravegamesearch.pages.dev/ (game searcher)
 
 https://ravebooksearch.com/ (book and audiobook searcher)
+
+https://ravesoftwaresearch.pages.dev/ (software)
  
 ## GUIDES
 
