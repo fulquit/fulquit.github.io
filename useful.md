@@ -313,6 +313,8 @@ https://www.biglybt.com/
 
 S | https://tb.rg-adguard.net/public.php (Windows / Office)
 
+S / K / A | https://devpoint.one/index.php
+
 S | https://nnmclub.to/forum/viewforum.php?f=504 (Windows 10)
   
 S | https://tb.rg-adguard.net/products.html  (Microsoft products)
