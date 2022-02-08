@@ -222,8 +222,6 @@ https://universal-bypass.org/install (same premise as adsbypasser)
 
 https://12ft.io/ bypasses paywalls and stuff
 
-https://unblocked-pw.github.io/ proxy thingy
-
 https://knaben.info/ another proxy thingy
 
 https://github.com/manuGMG/1fichier-dl (dl manager specifically for 1fichier to bypass its download limit)
