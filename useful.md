@@ -299,6 +299,9 @@ https://www.exactaudiocopy.de/ rips cds into flacs
 freac
 https://www.freac.org/ free audio converter + integrated cd ripper
 
+Adobe DC 
+https://github.com/NoooopeTF/Adobe-DC- 
+
 torrent clients:
 
 https://www.qbittorrent.org/download.php 
