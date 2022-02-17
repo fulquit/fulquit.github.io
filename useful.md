@@ -75,6 +75,8 @@ https://katb.in/
 
 https://0bin.net/
 
+https://paste.ubuntu.com/ (account required)
+
 ## WHERE TO FIND SOFTWARE
 
 https://rarbg.to / https://proxyrarbg.org 
