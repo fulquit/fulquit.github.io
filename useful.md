@@ -93,6 +93,8 @@ https://filecr.com (ddl)
 
 https://downloadui.bobpony.com/ (microsoft related software + some other useful stuff)
 
+https://autodesk.rg-adguard.net/ (autodesk dl links)
+
 http://forum.ru-board.com/topic.cgi?forum=35&topic=34925&start=2&limit=1&m=6#1 (list of modern patches for adobe, highly reccomended)
 
 http://forum.ru-board.com/topic.cgi?forum=35&topic=82415#1 (ru-board's thread of adobe cc)
@@ -317,6 +319,10 @@ https://www.biglybt.com/
 S | https://tb.rg-adguard.net/public.php (Windows / Office)
 
 S | https://store.rg-adguard.net/ (win10 app download generator)
+
+S | https://uup.rg-adguard.net/ (UUP dl)
+
+
 
 S / K / A | https://devpoint.one/index.php
 
