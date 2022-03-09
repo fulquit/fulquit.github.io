@@ -316,6 +316,8 @@ https://www.biglybt.com/
 
 S | https://tb.rg-adguard.net/public.php (Windows / Office)
 
+S | https://store.rg-adguard.net/ (win10 app download generator)
+
 S / K / A | https://devpoint.one/index.php
 
 S | https://nnmclub.to/forum/viewforum.php?f=504 (Windows 10)
