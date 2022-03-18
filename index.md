@@ -15,6 +15,4 @@ Me on other platforms:
 
 [Pastebin](https://pastebin.com/u/fulquit)  [Reddit](https://www.reddit.com/user/fulundelete) 
 
-Contact me:
 
-Discord: fulq_msg#9718 
