@@ -208,6 +208,8 @@ https://github.com/Otiel/BandcampDownloader downloads albums/music from bandcamp
 
 https://www.whatismybrowser.com/developers/tools/wget-wizard/ wget wizard
 
+https://github.com/nilaoda/N_m3u8DL-CLI/ (downloads m3u8)
+
 https://www.qbittorrent.org/download.php for p2p
 
 https://transmissionbt.com/about/ p2p
