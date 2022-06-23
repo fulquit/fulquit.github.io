@@ -324,7 +324,7 @@ S | https://store.rg-adguard.net/ (win10 app download generator)
 
 S | https://uup.rg-adguard.net/ (UUP dl)
 
-
+S | https://files.dog/MSDN/ (a lot of microsoft stuff, the-eye.eu reupload)
 
 S / K / A | https://devpoint.one/index.php
 
