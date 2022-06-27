@@ -9,5 +9,5 @@ If you appreciate what i'm doing, consider giving the project a star.
 
 Me on other platforms:
 
-[Pastebin](https://pastebin.com/u/fulquit)  [Reddit](https://www.reddit.com/user/fulundelete) 
+[Pastebin](https://pastebin.com/u/fulquit)  
 
