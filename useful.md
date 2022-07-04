@@ -240,6 +240,8 @@ https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_do
 
 https://pastebin.com/kQp0eGSw (other way to bypass gdrive quota)
 
+https://github.com/FlareSolverr/FlareSolverr (bypasses cloudflare anti ddos verification w/ a headless version of firefox)
+
 ## COMPRESSING/CONVERTING
 
 COMP | https://8mb.video/ (Compress videos/audio to be under 8mb)
