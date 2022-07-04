@@ -224,6 +224,8 @@ https://violentmonkey.github.io/ to make the scripts run
 
 (script) https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass (bypasses yt age restriction)
 
+https://fastforward.team/ (maintained version of universal bypass)
+
 https://universal-bypass.org/install (same premise as adsbypasser)
 
 https://12ft.io/ bypasses paywalls and stuff
