@@ -426,6 +426,8 @@ T | https://1drv.ms/u/s!AgL8o-XSp9z8jLZ16f3TLMwISUCYeg (UUPtoISO) w/indepth tuto
 
 https://www.xdcc.eu/ (irc stuff)
 
+http://sunxdcc.com/ (irc stuff)
+
 https://filepursuit.com/ (ddl search engine)
 
 https://zooqle.com/ (torrent aggregator)
