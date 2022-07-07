@@ -107,6 +107,10 @@ https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
 
+https://downloadly.ir (persian website: programming and general software, udemy courses, wordpress themes)
+
+https://scloud.ws/ (software repacks)
+
 ## MUSIC
 
 https://rutracker.org / https://rutracker.net (best one in my opinion)
