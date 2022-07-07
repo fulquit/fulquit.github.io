@@ -107,7 +107,7 @@ https://pastebin.com/ZEVquNhG (pastebin containing direct ddl links to adobe cc 
 
 https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 2018)
 
-https://downloadly.ir (programming and general software, udemy courses, wordpress themes)
+https://downloadly.ir (persian website: programming and general software, udemy courses, wordpress themes)
 
 https://scloud.ws/ (software repacks)
 
