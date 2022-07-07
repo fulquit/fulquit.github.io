@@ -109,7 +109,7 @@ https://pastebin.com/A0QUbPWF (pastebin containing direct ddl links to adobe cc 
 
 https://downloadly.ir (persian website: programming and general software, udemy courses, wordpress themes)
 
-https://scloud.ws/ (software repacks)
+https://scloud.ws/ (registration needed, software repacks)
 
 ## MUSIC
 
