@@ -10,6 +10,5 @@ If you wanna add something to the list of useful stuff, or the microsoft.md, add
 
 Me on other platforms:
 
-[Pastebin](https://pastebin.com/u/fulquit)  [Reddit](https://www.reddit.com/user/fulundelete) 
-
+[Pastebin](https://pastebin.com/u/fulquit)  
 
