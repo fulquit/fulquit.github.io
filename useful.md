@@ -144,6 +144,8 @@ days, while registered 30 days and premium no limit.)
 
 [https://pixeldrain.com/](https://pixeldrain.com/) (5gb per file on free version + after 30 days without new views the file will be deleted. Pro version (2€ per month) has 15gb per file and 90 days without new views will be deleted.)
 
+[https://megaup.net/](https://megaup.net/) (5gb per file)
+
 [https://www.terabox.com/](https://www.terabox.com/) (1tb free storage, reccomended to not store any personal info)
 
 [http://uploadboy.com/](http://uploadboy.com/) (100gb free space)
